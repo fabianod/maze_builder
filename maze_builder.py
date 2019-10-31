@@ -7,7 +7,7 @@ import time
 
 width = 1600
 height = 800
-scale = 2
+scale = 20
 
 displayMoves = False
 
